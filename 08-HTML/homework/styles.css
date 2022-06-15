@@ -1,0 +1,35 @@
+body{
+
+	background-image: url("https://i.blogs.es/5620ff/lomo-saltado-dap/840_560.jpg");
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+}
+
+
+img{
+
+	width: 400px;
+
+
+}
+
+#thirdDiv{
+
+	width: 500px;
+	height: 600px;
+	background-color: green;
+	padding: 50px;
+	border: 1px solid blue;
+	display: flex;
+	align-items: center;
+
+}
+
+#spanId{
+
+	font-size: 18px;
+	margin: 50px;
+	color: red;
+}
